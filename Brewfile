@@ -9,12 +9,14 @@ cask xquartz
 
 tap homebrew/core
 brew sqlite
+brew tree
 brew libtiff
 brew mas
 brew jpeg
 brew chromedriver
 brew thefuck
 brew openssl@1.1
+brew wget
 brew x264
 brew gdbm
 brew icu4c
@@ -22,9 +24,11 @@ brew readline
 brew cowsay
 brew gcc
 brew youtube-dl
+brew libunistring
 brew lame
 brew z
 brew trash
+brew python3
 brew libpng
 brew xvid
 brew gmp
@@ -40,7 +44,8 @@ brew speedtest-cli
 brew maven
 brew libogg
 brew libvorbis
-brew wget
+brew libffi
+brew gnutls
 brew nvm
 brew pcre2
 brew ruby
@@ -48,11 +53,13 @@ brew git-lfs
 brew calc
 brew fortune
 brew ffmpeg
+brew p11-kit
 brew libyaml
 brew scala
-brew tree
+brew libtasn1
 brew openssl
 brew gradle
+brew nettle
 brew isl
 brew archey
 brew libtool
