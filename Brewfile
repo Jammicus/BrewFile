@@ -23,6 +23,7 @@ brew git-lfs
 brew gmp
 brew gnutls
 brew gradle
+brew grep
 brew icu4c
 brew imagemagick
 brew isl
@@ -57,6 +58,7 @@ brew sbt
 brew scala
 brew speedtest-cli
 brew sqlite
+brew ssh-copy-id
 brew thefuck
 brew trash
 brew tree
