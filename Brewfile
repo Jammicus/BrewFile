@@ -12,25 +12,41 @@ cask xquartz
 tap homebrew/core
 brew archey
 brew calc
+<<<<<<< HEAD
 brew cask
 brew chromedriver
 brew cowsay
 brew docker
 brew emacs
+=======
+brew chromedriver
+brew cowsay
+brew docker
+>>>>>>> f5f8abe91b7e6664d1e999b1d862456bf9368440
 brew ffmpeg
 brew fortune
 brew freetype
 brew gcc
 brew gdbm
+<<<<<<< HEAD
 brew git-lfs
 brew gmp
 brew go
 brew gradle
+=======
+brew git
+brew git-lfs
+brew gmp
+brew gnutls
+brew gradle
+brew grep
+>>>>>>> f5f8abe91b7e6664d1e999b1d862456bf9368440
 brew icu4c
 brew imagemagick
 brew isl
 brew jpeg
 brew lame
+<<<<<<< HEAD
 brew libmpc
 brew libogg
 brew libpng
@@ -47,6 +63,27 @@ brew node@4
 brew nvm
 brew openssl
 brew openssl@1.1
+=======
+brew libffi
+brew libmpc
+brew libogg
+brew libpng
+brew libtasn1
+brew libtiff
+brew libtool
+brew libunistring
+brew libvorbis
+brew libyaml
+brew mas
+brew maven
+brew mpfr
+brew nettle
+brew node
+brew nvm
+brew openssl
+brew openssl@1.1
+brew p11-kit
+>>>>>>> f5f8abe91b7e6664d1e999b1d862456bf9368440
 brew pcre
 brew pcre2
 brew python
@@ -57,8 +94,13 @@ brew sbt
 brew scala
 brew speedtest-cli
 brew sqlite
+<<<<<<< HEAD
 brew thefuck
 brew tldr
+=======
+brew ssh-copy-id
+brew thefuck
+>>>>>>> f5f8abe91b7e6664d1e999b1d862456bf9368440
 brew trash
 brew tree
 brew wget
@@ -69,8 +111,11 @@ brew xz
 brew youtube-dl
 brew z
 brew zsh
+<<<<<<< HEAD
 
 tap homebrew/versions
+=======
+>>>>>>> f5f8abe91b7e6664d1e999b1d862456bf9368440
 
 tap rcmdnk/file
 brew brew-file
