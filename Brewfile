@@ -3,13 +3,16 @@
 
 tap caskroom/cask
 cask cakebrew
+cask dash
 cask docker
 cask slack
 cask vagrant
 cask virtualbox
+cask vlc
 cask xquartz
 
 tap homebrew/core
+brew ant
 brew archey
 brew calc
 brew cask
@@ -61,6 +64,7 @@ brew speedtest-cli
 brew sqlite
 brew thefuck
 brew tldr
+brew tomcat
 brew trash
 brew tree
 brew wget
@@ -73,7 +77,6 @@ brew z
 brew zsh
 
 tap homebrew/versions
-f5f8abe91b7e6664d1e999b1d862456bf9368440
 
 tap rcmdnk/file
 brew brew-file
@@ -82,3 +85,6 @@ brew brew-file
 appstore 937984704 Amphetamine (3.0.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.27312)
 appstore 410628904 Wunderlist (3.4.7)
+
+# Other commands
+f5f8abe91b7e6664d1e999b1d862456bf9368440
