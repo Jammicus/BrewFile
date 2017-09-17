@@ -6,7 +6,6 @@ cask cakebrew
 cask dash
 cask docker
 cask slack
-<<<<<<< HEAD
 cask vagrant
 cask virtualbox
 cask vlc
@@ -17,8 +16,7 @@ brew ant
 brew archey
 brew calc
 brew cask
-=======
-cask xquartz
+
 
 tap homebrew/core
 brew sqlite
@@ -26,7 +24,6 @@ brew tree
 brew libtiff
 brew mas
 brew jpeg
->>>>>>> ed2513539bf30ef188fa0491c9d79df444e910d0
 brew chromedriver
 brew ssh-copy-id
 brew thefuck
@@ -73,7 +70,6 @@ brew ffmpeg
 brew p11-kit
 brew libyaml
 brew scala
-<<<<<<< HEAD
 brew speedtest-cli
 brew sqlite
 brew thefuck
@@ -82,7 +78,6 @@ brew tomcat
 brew trash
 brew tree
 brew wget
-=======
 brew libtasn1
 brew openssl
 brew gradle
@@ -91,15 +86,11 @@ brew isl
 brew archey
 brew libtool
 brew docker
->>>>>>> ed2513539bf30ef188fa0491c9d79df444e910d0
 brew wine
 brew zsh
-<<<<<<< HEAD
 
 tap homebrew/versions
-=======
 brew mpfr
->>>>>>> ed2513539bf30ef188fa0491c9d79df444e910d0
 
 tap rcmdnk/file
 brew brew-file
