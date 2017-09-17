@@ -6,7 +6,21 @@ cask cakebrew
 cask docker
 cask firefox
 cask slack
+<<<<<<< HEAD
 cask xquartz
+=======
+cask vagrant
+cask virtualbox
+cask vlc
+cask xquartz
+
+tap homebrew/core
+brew ant
+brew archey
+brew calc
+brew cask
+
+>>>>>>> f7e306b23b48b94f1e6458822c66bed5d51a0737
 
 tap homebrew/core
 brew sqlite
