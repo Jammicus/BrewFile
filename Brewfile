@@ -14,7 +14,6 @@ cask slack
 cask vagrant
 cask virtualbox
 cask vlc
-cask xquartz
 
 tap caskroom/versions
 cask google-chrome-canary
@@ -103,13 +102,4 @@ appstore 715768417 Microsoft Remote Desktop (8.0.27319)
 appstore 410628904 Wunderlist (3.4.7)
 
 # Other commands
-<<<<<<< HEAD
-=======
->>>>>>> ed2513539bf30ef188fa0491c9d79df444e910d0
-<<<<<<< HEAD
-=======
->>>>>>> ed2513539bf30ef188fa0491c9d79df444e910d0
-<<<<<<< HEAD
-=======
->>>>>>> ed2513539bf30ef188fa0491c9d79df444e910d0
 f5f8abe91b7e6664d1e999b1d862456bf9368440
