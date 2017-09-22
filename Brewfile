@@ -103,5 +103,3 @@ appstore 937984704 Amphetamine (3.0.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.27319)
 appstore 410628904 Wunderlist (3.4.7)
 
-# Other commands
-f5f8abe91b7e6664d1e999b1d862456bf9368440
