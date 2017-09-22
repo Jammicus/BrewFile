@@ -17,6 +17,7 @@ cask vlc
 
 tap caskroom/versions
 cask google-chrome-canary
+cask safari-technology-preview
 
 tap homebrew/core
 brew openssl@1.1
