@@ -1,3 +1,4 @@
+
 # tap repositories and their packages
 
 tap caskroom/cask
@@ -13,6 +14,7 @@ cask slack
 cask vagrant
 cask virtualbox
 cask vlc
+cask xquartz
 
 tap caskroom/versions
 cask google-chrome-canary
@@ -98,5 +100,8 @@ brew brew-file
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
+appstore 409183694 Keynote (7.3)
 appstore 715768417 Microsoft Remote Desktop (8.0.27319)
+appstore 409203825 Numbers (4.3)
+appstore 409201541 Pages (6.3)
 appstore 410628904 Wunderlist (3.4.7)
