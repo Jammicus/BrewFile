@@ -11,6 +11,7 @@ cask google-chrome
 cask licecap
 cask p4v
 cask slack
+cask spotify
 cask vagrant
 cask virtualbox
 cask vlc
