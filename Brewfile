@@ -20,6 +20,7 @@ cask xquartz
 
 tap caskroom/versions
 cask firefox-beta
+cask firefoxdeveloperedition
 cask google-chrome-canary
 cask safari-technology-preview
 
