@@ -91,6 +91,7 @@ cask vlc
 cask coconutbattery
 cask p4v
 cask chromium
+cask transmission
 cask docker
 cask dash
 cask vagrant
