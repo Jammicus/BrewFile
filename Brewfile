@@ -1,3 +1,4 @@
+
 # tap repositories and their packages
 
 tap homebrew/core
@@ -85,6 +86,7 @@ cask safari-technology-preview
 tap caskroom/cask
 cask slack
 cask virtualbox
+cask visual-studio-code
 cask spotify
 cask vlc
 cask coconutbattery
@@ -97,6 +99,7 @@ cask vagrant
 cask firefox
 cask google-chrome
 cask xquartz
+cask anki
 cask cakebrew
 cask licecap
 
