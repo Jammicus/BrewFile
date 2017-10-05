@@ -85,6 +85,7 @@ cask safari-technology-preview
 
 tap caskroom/cask
 cask slack
+cask atom
 cask virtualbox
 cask visual-studio-code
 cask spotify
