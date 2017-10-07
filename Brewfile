@@ -92,6 +92,7 @@ cask spotify
 cask vlc
 cask coconutbattery
 cask p4v
+cask handbrake
 cask chromium
 cask transmission
 cask docker
