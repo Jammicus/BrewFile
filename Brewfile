@@ -95,6 +95,7 @@ cask p4v
 cask chromium
 cask transmission
 cask docker
+cask kindle
 cask dash
 cask vagrant
 cask firefox
