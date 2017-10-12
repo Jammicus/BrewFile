@@ -116,6 +116,7 @@ brew brew-file
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
+appstore 1091189122 Bear (1.3.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 410628904 Wunderlist (3.4.7)
 appstore 497799835 Xcode (9.0)
