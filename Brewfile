@@ -92,6 +92,7 @@ cask vlc
 cask coconutbattery
 cask p4v
 cask handbrake
+cask jumpcut
 cask chromium
 cask transmission
 cask docker
