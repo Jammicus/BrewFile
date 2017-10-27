@@ -8,6 +8,7 @@ brew archey
 brew calc
 brew cask
 brew chromedriver
+brew coreutils
 brew cowsay
 brew cscope
 brew docker
