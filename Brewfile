@@ -67,6 +67,7 @@ brew scala
 brew speedtest-cli
 brew sqlite
 brew ssh-copy-id
+brew terraform
 brew thefuck
 brew tldr
 brew tomcat
