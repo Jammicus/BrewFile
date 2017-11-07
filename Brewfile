@@ -19,6 +19,7 @@ brew freetype
 brew gcc
 brew gdbm
 brew git
+brew git-crypt
 brew git-lfs
 brew gmp
 brew gnutls
