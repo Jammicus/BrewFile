@@ -26,7 +26,6 @@ brew gnutls
 brew go
 brew gradle
 brew grep
-brew groovy
 brew groovysdk
 brew icu4c
 brew imagemagick
