@@ -31,6 +31,7 @@ brew icu4c
 brew imagemagick
 brew isl
 brew jpeg
+brew kubernetes-cli
 brew lame
 brew libffi
 brew libmpc
@@ -111,6 +112,7 @@ cask xquartz
 cask anki
 cask cakebrew
 cask licecap
+cask minikube
 
 tap caskroom/versions
 cask firefox-beta
