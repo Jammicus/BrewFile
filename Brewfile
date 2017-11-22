@@ -5,6 +5,8 @@ tap homebrew/core
 brew ansible
 brew ant
 brew archey
+brew asciinema
+brew asciinema2gif
 brew calc
 brew cask
 brew chromedriver
@@ -18,6 +20,7 @@ brew fortune
 brew freetype
 brew gcc
 brew gdbm
+brew gifsicle
 brew git
 brew git-crypt
 brew git-lfs
@@ -25,6 +28,7 @@ brew gmp
 brew gnutls
 brew go
 brew gradle
+brew grafana
 brew grep
 brew groovysdk
 brew icu4c
@@ -58,6 +62,7 @@ brew osxutils
 brew p11-kit
 brew pcre
 brew pcre2
+brew phantomjs
 brew pkg-config
 brew python
 brew python3
@@ -92,6 +97,7 @@ tap homebrew/versions
 tap caskroom/cask
 cask slack
 cask atom
+cask cheatsheet
 cask virtualbox
 cask visual-studio-code
 cask spotify
