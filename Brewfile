@@ -30,6 +30,7 @@ brew go
 brew gradle
 brew grafana
 brew grep
+brew groovy
 brew groovysdk
 brew icu4c
 brew imagemagick
