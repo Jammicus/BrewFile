@@ -118,6 +118,7 @@ cask xquartz
 cask anki
 cask licecap
 cask minikube
+cask calibre
 
 tap caskroom/versions
 cask firefox-beta
