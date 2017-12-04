@@ -111,11 +111,13 @@ cask chromium
 cask transmission
 cask docker
 cask kindle
+cask dash
 cask vagrant
 cask firefox
 cask google-chrome
 cask xquartz
 cask anki
+cask cakebrew
 cask licecap
 cask minikube
 cask calibre
