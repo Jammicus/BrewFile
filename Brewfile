@@ -13,6 +13,7 @@ brew chromedriver
 brew coreutils
 brew cowsay
 brew cscope
+brew csvkit
 brew docker
 brew emacs
 brew ffmpeg
