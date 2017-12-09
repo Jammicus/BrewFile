@@ -106,10 +106,12 @@ cask spotify
 cask vlc
 cask coconutbattery
 cask p4v
+cask spectacle
 cask handbrake
 cask jumpcut
 cask chromium
 cask transmission
+cask postman
 cask docker
 cask kindle
 cask dash
