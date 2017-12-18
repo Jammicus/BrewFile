@@ -21,6 +21,7 @@ brew fortune
 brew freetype
 brew gcc
 brew gdbm
+brew gettext
 brew gifsicle
 brew git
 brew git-crypt
@@ -40,6 +41,7 @@ brew jpeg
 brew kubernetes-cli
 brew lame
 brew libffi
+brew libidn2
 brew libmpc
 brew libogg
 brew libpng
