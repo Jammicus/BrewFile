@@ -38,6 +38,7 @@ brew icu4c
 brew imagemagick
 brew isl
 brew jpeg
+brew jq
 brew kubernetes-cli
 brew lame
 brew libffi
@@ -60,6 +61,7 @@ brew nettle
 brew node
 brew node@4
 brew nvm
+brew oniguruma
 brew openssl
 brew openssl@1.1
 brew osxutils
@@ -73,6 +75,7 @@ brew python3
 brew readline
 brew rename
 brew ruby
+brew s-lang
 brew sbt
 brew scala
 brew speedtest-cli
@@ -89,6 +92,7 @@ brew webkit2png
 brew wget
 brew wine
 brew x264
+brew xml-coreutils
 brew xvid
 brew xz
 brew yarn
@@ -124,6 +128,7 @@ cask xquartz
 cask anki
 cask cakebrew
 cask licecap
+cask chefdk
 cask minikube
 cask calibre
 
