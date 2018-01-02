@@ -27,6 +27,7 @@ brew git
 brew git-crypt
 brew git-lfs
 brew gmp
+brew gnu-sed
 brew gnutls
 brew go
 brew gradle
