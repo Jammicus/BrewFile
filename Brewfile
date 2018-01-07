@@ -78,7 +78,6 @@ brew rename
 brew ruby
 brew s-lang
 brew sbt
-brew scala
 brew speedtest-cli
 brew sqlite
 brew ssh-copy-id
