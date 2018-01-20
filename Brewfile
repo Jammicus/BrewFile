@@ -26,6 +26,7 @@ brew gifsicle
 brew git
 brew git-crypt
 brew git-lfs
+brew gitlab-runner
 brew gmp
 brew gnu-sed
 brew gnutls
@@ -105,6 +106,7 @@ tap homebrew/versions
 
 tap caskroom/cask
 cask slack
+cask cold-turkey-blocker
 cask atom
 cask cheatsheet
 cask virtualbox
