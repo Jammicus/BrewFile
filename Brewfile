@@ -107,7 +107,6 @@ tap homebrew/versions
 
 tap caskroom/cask
 cask slack
-cask cold-turkey-blocker
 cask atom
 cask cheatsheet
 cask virtualbox
@@ -118,7 +117,6 @@ cask coconutbattery
 cask p4v
 cask spectacle
 cask handbrake
-cask jumpcut
 cask chromium
 cask transmission
 cask postman
@@ -130,7 +128,6 @@ cask firefox
 cask google-chrome
 cask xquartz
 cask anki
-cask cakebrew
 cask licecap
 cask chefdk
 cask minikube
@@ -139,7 +136,6 @@ cask calibre
 tap caskroom/versions
 cask firefox-beta
 cask google-chrome-canary
-cask safari-technology-preview
 
 tap rcmdnk/file
 brew brew-file
