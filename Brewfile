@@ -58,6 +58,7 @@ brew libzip
 brew macvim
 brew mas
 brew maven
+brew moreutils
 brew mpfr
 brew nettle
 brew node
