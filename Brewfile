@@ -81,9 +81,11 @@ brew ruby
 brew s-lang
 brew sbt
 brew scala
+brew sl
 brew speedtest-cli
 brew sqlite
 brew ssh-copy-id
+brew telnet
 brew terraform
 brew thefuck
 brew tldr
@@ -117,26 +119,35 @@ cask coconutbattery
 cask p4v
 cask spectacle
 cask handbrake
+cask jumpcut
+cask chromium
 cask transmission
 cask postman
 cask docker
 cask kindle
 cask dash
 cask vagrant
+cask powershell
 cask firefox
 cask google-chrome
 cask xquartz
 cask anki
+cask cakebrew
 cask licecap
 cask chefdk
 cask minikube
 cask calibre
 
 tap caskroom/versions
+cask firefox-beta
 cask google-chrome-canary
+cask safari-technology-preview
 
 tap rcmdnk/file
 brew brew-file
+
+# Cask applications
+cask firefoxdeveloperedition
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
