@@ -128,6 +128,7 @@ cask kindle
 cask dash
 cask vagrant
 cask powershell
+cask franz
 cask firefox
 cask google-chrome
 cask xquartz
@@ -139,15 +140,10 @@ cask minikube
 cask calibre
 
 tap caskroom/versions
-cask firefox-beta
 cask google-chrome-canary
-cask safari-technology-preview
 
 tap rcmdnk/file
 brew brew-file
-
-# Cask applications
-cask firefoxdeveloperedition
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
@@ -156,5 +152,6 @@ appstore 409183694 Keynote (7.3.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
+appstore 585829637 Todoist (7.0.10)
 appstore 410628904 Wunderlist (3.4.7)
 appstore 497799835 Xcode (9.2)
