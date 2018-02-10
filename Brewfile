@@ -128,7 +128,6 @@ cask kindle
 cask dash
 cask vagrant
 cask powershell
-cask franz
 cask firefox
 cask google-chrome
 cask xquartz
