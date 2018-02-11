@@ -134,6 +134,7 @@ cask xquartz
 cask anki
 cask cakebrew
 cask licecap
+cask remembear
 cask chefdk
 cask minikube
 cask calibre
