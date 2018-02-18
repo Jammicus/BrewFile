@@ -69,6 +69,7 @@ brew openssl
 brew openssl@1.1
 brew osxutils
 brew p11-kit
+brew packer
 brew pcre
 brew pcre2
 brew phantomjs
