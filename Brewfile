@@ -81,7 +81,6 @@ brew rename
 brew ruby
 brew s-lang
 brew sbt
-brew scala
 brew sl
 brew speedtest-cli
 brew sqlite
