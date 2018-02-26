@@ -76,6 +76,7 @@ brew phantomjs
 brew pkg-config
 brew python
 brew python3
+brew rancher-cli
 brew readline
 brew rename
 brew ruby
