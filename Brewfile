@@ -143,9 +143,7 @@ cask minikube
 cask calibre
 
 tap caskroom/versions
-cask firefox-beta
 cask google-chrome-canary
-cask safari-technology-preview
 
 tap rcmdnk/file
 brew brew-file
