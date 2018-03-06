@@ -75,7 +75,7 @@ brew pcre2
 brew phantomjs
 brew pkg-config
 brew python
-brew python3
+brew python@2
 brew rancher-cli
 brew readline
 brew rename
@@ -143,7 +143,9 @@ cask minikube
 cask calibre
 
 tap caskroom/versions
+cask firefox-beta
 cask google-chrome-canary
+cask safari-technology-preview
 
 tap rcmdnk/file
 brew brew-file
@@ -153,7 +155,7 @@ cask firefoxdeveloperedition
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
-appstore 1091189122 Bear (1.4.1)
+appstore 1091189122 Bear (1.4.3)
 appstore 409183694 Keynote (7.3.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (4.3.1)
