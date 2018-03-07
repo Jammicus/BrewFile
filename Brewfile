@@ -115,6 +115,7 @@ cask atom
 cask cheatsheet
 cask virtualbox
 cask visual-studio-code
+cask kitematic
 cask spotify
 cask vlc
 cask coconutbattery
