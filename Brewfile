@@ -7,6 +7,7 @@ brew ant
 brew archey
 brew asciinema
 brew asciinema2gif
+brew autoconf
 brew calc
 brew cask
 brew chromedriver
@@ -77,9 +78,12 @@ brew pkg-config
 brew python
 brew python@2
 brew rancher-cli
+brew rbenv
+brew rbenv-chefdk
 brew readline
 brew rename
 brew ruby
+brew ruby-build
 brew s-lang
 brew sbt
 brew scala
