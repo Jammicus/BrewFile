@@ -114,38 +114,38 @@ brew zsh
 tap homebrew/versions
 
 tap caskroom/cask
-cask slack
+cask anki
 cask atom
+cask cakebrew
+cask calibre
 cask cheatsheet
-cask virtualbox
-cask visual-studio-code
-cask kitematic
-cask spotify
-cask vlc
+cask chefdk
+cask chromium
 cask coconutbattery
-cask p4v
-cask spectacle
+cask dash
+cask docker
+cask firefox
+cask franz
+cask google-chrome
 cask handbrake
 cask jumpcut
-cask chromium
-cask transmission
-cask postman
-cask docker
 cask kindle
-cask dash
-cask vagrant
-cask powershell
-cask franz
-cask firefox
-cask google-chrome
-cask xquartz
-cask anki
-cask cakebrew
+cask kitematic
 cask licecap
-cask remembear
-cask chefdk
 cask minikube
-cask calibre
+cask p4v
+cask postman
+cask powershell
+cask remembear
+cask slack
+cask spectacle
+cask spotify
+cask transmission
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask vlc
+cask xquartz
 
 tap caskroom/versions
 cask firefox-beta
@@ -155,7 +155,7 @@ cask safari-technology-preview
 tap rcmdnk/file
 brew brew-file
 
-# Cask applications
+# Other Cask applications
 cask firefoxdeveloperedition
 
 # App Store applications
