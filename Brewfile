@@ -149,15 +149,12 @@ cask vlc
 cask xquartz
 
 tap caskroom/versions
-cask firefox-beta
 cask google-chrome-canary
-cask safari-technology-preview
 
 tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
-cask firefoxdeveloperedition
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
