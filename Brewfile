@@ -8,6 +8,7 @@ brew archey
 brew asciinema
 brew asciinema2gif
 brew autoconf
+brew automake
 brew bats
 brew calc
 brew cask
@@ -46,7 +47,9 @@ brew jq
 brew kubernetes-cli
 brew lame
 brew libffi
+brew libgpg-error
 brew libidn2
+brew libksba --force
 brew libmpc
 brew libogg
 brew libpng
