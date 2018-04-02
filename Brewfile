@@ -49,7 +49,7 @@ brew lame
 brew libffi
 brew libgpg-error
 brew libidn2
-brew libksba --force
+brew libksba
 brew libmpc
 brew libogg
 brew libpng
