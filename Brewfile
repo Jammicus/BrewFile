@@ -129,7 +129,6 @@ cask coconutbattery
 cask dash
 cask docker
 cask firefox
-cask franz
 cask google-chrome
 cask handbrake
 cask jumpcut
@@ -152,9 +151,7 @@ cask vlc
 cask xquartz
 
 tap caskroom/versions
-cask firefox-beta
 cask google-chrome-canary
-cask safari-technology-preview
 
 tap rcmdnk/file
 brew brew-file
