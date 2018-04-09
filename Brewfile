@@ -129,6 +129,7 @@ cask coconutbattery
 cask dash
 cask docker
 cask firefox
+cask franz
 cask google-chrome
 cask handbrake
 cask jumpcut
@@ -151,10 +152,15 @@ cask vlc
 cask xquartz
 
 tap caskroom/versions
+cask firefox-beta
 cask google-chrome-canary
+cask safari-technology-preview
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Cask applications
+cask firefoxdeveloperedition
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
@@ -164,5 +170,5 @@ appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (5.0)
 appstore 409201541 Pages (7.0)
 appstore 585829637 Todoist (7.0.12)
-appstore 410628904 Wunderlist (3.4.8)
+appstore 410628904 Wunderlist (3.4.7)
 appstore 497799835 Xcode (9.3)
