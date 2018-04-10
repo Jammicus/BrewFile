@@ -129,7 +129,6 @@ cask coconutbattery
 cask dash
 cask docker
 cask firefox
-cask franz
 cask google-chrome
 cask handbrake
 cask jumpcut
