@@ -12,7 +12,6 @@ brew automake
 brew bats
 brew calc
 brew cask
-brew chromedriver
 brew coreutils
 brew cowsay
 brew cscope
@@ -157,7 +156,8 @@ cask google-chrome-canary
 tap rcmdnk/file
 brew brew-file
 
-# Other Cask applications
+# Other Homebrew packages
+brew chromedriver
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
