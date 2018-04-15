@@ -45,6 +45,7 @@ brew isl
 brew jpeg
 brew jq
 brew kubernetes-cli
+brew kubernetes-helm
 brew lame
 brew libffi
 brew libgpg-error
@@ -157,7 +158,6 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
-cask firefoxdeveloperedition
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
