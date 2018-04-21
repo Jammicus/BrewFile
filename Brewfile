@@ -13,6 +13,7 @@ brew automake
 brew bats
 brew calc
 brew cask
+brew certbot
 brew coreutils
 brew cowsay
 brew cscope
@@ -160,7 +161,6 @@ brew brew-file
 
 # Other Homebrew packages
 brew chromedriver
-brew letsencrypt
 
 # Other Cask applications
 cask firefoxdeveloperedition
