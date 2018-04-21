@@ -141,7 +141,6 @@ cask minikube
 cask p4v
 cask postman
 cask powershell
-cask remembear
 cask slack
 cask spectacle
 cask spotify
