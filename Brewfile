@@ -7,6 +7,7 @@ brew ant
 brew archey
 brew asciinema
 brew asciinema2gif
+brew augeas
 brew autoconf
 brew automake
 brew bats
@@ -16,6 +17,7 @@ brew coreutils
 brew cowsay
 brew cscope
 brew csvkit
+brew dialog
 brew docker
 brew emacs
 brew ffmpeg
@@ -158,6 +160,7 @@ brew brew-file
 
 # Other Homebrew packages
 brew chromedriver
+brew letsencrypt
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
