@@ -113,7 +113,6 @@ brew x264
 brew xml-coreutils
 brew xvid
 brew xz
-brew yarn
 brew youtube-dl
 brew z
 brew zsh
