@@ -113,6 +113,7 @@ brew x264
 brew xml-coreutils
 brew xvid
 brew xz
+brew yarn
 brew youtube-dl
 brew z
 brew zsh
@@ -161,11 +162,9 @@ brew brew-file
 # Other Homebrew packages
 brew chromedriver
 
-# Other Cask applications
-
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
-appstore 1091189122 Bear (1.4.3)
+appstore 1091189122 Bear (1.5.1)
 appstore 409183694 Keynote (8.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (5.0)
