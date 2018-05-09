@@ -73,6 +73,7 @@ brew node
 brew node@4
 brew nvm
 brew oniguruma
+brew openshift-cli
 brew openssl
 brew openssl@1.1
 brew osxutils
@@ -95,6 +96,7 @@ brew s-lang
 brew sbt
 brew scala
 brew sl
+brew socat
 brew speedtest-cli
 brew sqlite
 brew ssh-copy-id
