@@ -141,6 +141,7 @@ cask kindle
 cask kitematic
 cask licecap
 cask minikube
+cask minishift
 cask p4v
 cask postman
 cask powershell
