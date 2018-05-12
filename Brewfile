@@ -128,7 +128,6 @@ cask atom
 cask chefdk
 cask chromium
 cask coconutbattery
-cask dash
 cask docker
 cask firefox
 cask google-chrome
@@ -142,7 +141,6 @@ cask minishift
 cask p4v
 cask postman
 cask powershell
-cask remembear
 cask slack
 cask spectacle
 cask spotify
