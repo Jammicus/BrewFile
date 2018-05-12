@@ -125,9 +125,6 @@ tap homebrew/versions
 tap caskroom/cask
 cask anki
 cask atom
-cask cakebrew
-cask calibre
-cask cheatsheet
 cask chefdk
 cask chromium
 cask coconutbattery
