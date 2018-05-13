@@ -157,6 +157,9 @@ cask google-chrome-canary
 tap rcmdnk/file
 brew brew-file
 
+# Other Homebrew packages
+brew chromedriver
+
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
 appstore 1091189122 Bear (1.5.1)
