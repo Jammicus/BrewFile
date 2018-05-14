@@ -125,9 +125,13 @@ tap homebrew/versions
 tap caskroom/cask
 cask anki
 cask atom
+cask cakebrew
+cask calibre
+cask cheatsheet
 cask chefdk
 cask chromium
 cask coconutbattery
+cask dash
 cask docker
 cask firefox
 cask google-chrome
@@ -141,6 +145,7 @@ cask minishift
 cask p4v
 cask postman
 cask powershell
+cask remembear
 cask slack
 cask spectacle
 cask spotify
@@ -160,13 +165,16 @@ brew brew-file
 # Other Homebrew packages
 brew chromedriver
 
+# Other Cask applications
+cask firefoxdeveloperedition
+
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
-appstore 1091189122 Bear (1.5.2)
+appstore 1091189122 Bear (1.5.1)
 appstore 409183694 Keynote (8.0.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (5.0.1)
 appstore 409201541 Pages (7.0.1)
 appstore 585829637 Todoist (7.0.12)
 appstore 410628904 Wunderlist (3.4.8)
-appstore 497799835 Xcode (9.3.1)
+appstore 497799835 Xcode (9.3)
