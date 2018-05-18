@@ -123,6 +123,8 @@ brew zsh
 tap homebrew/versions
 
 tap caskroom/cask
+cask android-ndk
+cask android-sdk
 cask anki
 cask atom
 cask cakebrew
@@ -133,6 +135,7 @@ cask chromium
 cask coconutbattery
 cask dash
 cask docker
+cask fastlane
 cask firefox
 cask google-chrome
 cask handbrake
@@ -172,6 +175,7 @@ cask firefoxdeveloperedition
 appstore 937984704 Amphetamine (3.0.2)
 appstore 1091189122 Bear (1.5.2)
 appstore 409183694 Keynote (8.0.1)
+appstore 539883307 LINE (5.7.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (5.0.1)
 appstore 409201541 Pages (7.0.1)
