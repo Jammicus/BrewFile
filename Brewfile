@@ -170,7 +170,6 @@ brew brew-file
 brew chromedriver
 
 # Other Cask applications
-cask firefoxdeveloperedition
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
