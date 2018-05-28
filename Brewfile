@@ -121,9 +121,7 @@ brew youtube-dl
 brew z
 brew zsh
 
-tap homebrew/versions
-
-tap caskroom/cask
+tap homebrew/cask
 cask android-ndk
 cask android-sdk
 cask anki
@@ -160,8 +158,10 @@ cask visual-studio-code
 cask vlc
 cask xquartz
 
-tap caskroom/versions
+tap homebrew/cask-versions
 cask google-chrome-canary
+
+tap homebrew/versions
 
 tap rcmdnk/file
 brew brew-file
