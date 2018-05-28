@@ -163,13 +163,13 @@ cask google-chrome-canary
 
 tap homebrew/versions
 
+tap caskroom/cask
+
 tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
 brew chromedriver
-
-# Other Cask applications
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
