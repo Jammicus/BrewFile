@@ -165,6 +165,9 @@ tap homebrew/versions
 
 tap caskroom/cask
 
+## Direct install
+brew https://raw.githubusercontent.com/kadwanev/bigboybrew/master/Library/Formula/sshpass.rb
+
 tap rcmdnk/file
 brew brew-file
 
