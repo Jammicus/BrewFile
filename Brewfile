@@ -129,7 +129,6 @@ cask atom
 cask cakebrew
 cask calibre
 cask cheatsheet
-cask chefdk
 cask chromium
 cask coconutbattery
 cask dash
@@ -173,6 +172,9 @@ brew brew-file
 
 # Other Homebrew packages
 brew chromedriver
+
+# Other Cask applications
+cask chefdk
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
