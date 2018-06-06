@@ -123,40 +123,23 @@ brew zsh
 
 tap homebrew/cask
 cask android-ndk
-cask android-sdk
 cask anki
-cask appcleaner
 cask atom
-cask cakebrew
 cask calibre
-cask cheatsheet
 cask chromium
-cask coconutbattery
 cask dash
-cask docker
 cask fastlane
-cask firefox
 cask google-chrome
 cask handbrake
-cask jumpcut
 cask kindle
-cask kitematic
 cask licecap
-cask minikube
 cask minishift
-cask p4v
 cask postman
-cask powershell
 cask remembear
-cask slack
 cask spectacle
-cask spotify
 cask transmission
-cask vagrant
 cask virtualbox
-cask visual-studio-code
 cask vlc
-cask xquartz
 
 tap homebrew/cask-versions
 cask google-chrome-canary
@@ -175,7 +158,24 @@ brew brew-file
 brew chromedriver
 
 # Other Cask applications
+cask android-sdk
+cask appcleaner
+cask cakebrew
+cask cheatsheet
 cask chefdk
+cask coconutbattery
+cask docker
+cask firefox
+cask jumpcut
+cask kitematic
+cask minikube
+cask p4v
+cask powershell
+cask slack
+cask spotify
+cask vagrant
+cask visual-studio-code
+cask xquartz
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
