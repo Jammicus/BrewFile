@@ -121,52 +121,33 @@ brew youtube-dl
 brew z
 brew zsh
 
-tap homebrew/cask
-cask android-ndk
-cask android-sdk
-cask anki
-cask appcleaner
-cask atom
-cask cakebrew
-cask calibre
-cask cheatsheet
-cask chromium
-cask coconutbattery
-cask dash
-cask docker
-cask fastlane
-cask firefox
-cask google-chrome
-cask handbrake
-cask jumpcut
-cask kindle
-cask kitematic
-cask licecap
-cask minikube
-cask minishift
-cask p4v
-cask postman
-cask powershell
-cask remembear
-cask slack
-cask spectacle
-cask spotify
-cask transmission
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask vlc
-cask xquartz
-
 tap homebrew/cask-versions
 cask google-chrome-canary
 
 tap homebrew/versions
 
-tap caskroom/cask
+tap homebrew/cask
+cask android-ndk
+cask anki
+cask atom
+cask calibre
+cask chromium
+cask dash
+cask fastlane
+cask google-chrome
+cask jumpcut
+cask kitematic
+cask minikube
+cask p4v
+cask powershell
+cask slack
+cask spotify
+cask vagrant
+cask visual-studio-code
+cask xquartz
 
 ## Direct install
-brew https://raw.githubusercontent.com/kadwanev/bigboybrew/master/Library/Formula/sshpass.rb
+brew sshpass
 
 tap rcmdnk/file
 brew brew-file
@@ -175,13 +156,30 @@ brew brew-file
 brew chromedriver
 
 # Other Cask applications
+cask android-sdk
+cask appcleaner
+cask cakebrew
+cask cheatsheet
 cask chefdk
+cask coconutbattery
+cask docker
+cask firefox
+cask handbrake
+cask kindle
+cask licecap
+cask minishift
+cask postman
+cask remembear
+cask spectacle
+cask transmission
+cask virtualbox
+cask vlc
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
 appstore 1091189122 Bear (1.5.5)
 appstore 409183694 Keynote (8.0.1)
-appstore 539883307 LINE (5.7.0)
+appstore 539883307 LINE (5.8.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (5.0.1)
 appstore 409201541 Pages (7.0.1)
