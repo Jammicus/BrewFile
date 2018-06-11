@@ -121,11 +121,6 @@ brew youtube-dl
 brew z
 brew zsh
 
-tap homebrew/cask-versions
-cask google-chrome-canary
-
-tap homebrew/versions
-
 tap homebrew/cask
 cask android-ndk
 cask anki
@@ -135,16 +130,23 @@ cask chromium
 cask dash
 cask fastlane
 cask google-chrome
-cask jumpcut
-cask kitematic
-cask minikube
-cask p4v
-cask powershell
-cask slack
-cask spotify
-cask vagrant
-cask visual-studio-code
-cask xquartz
+cask handbrake
+cask kindle
+cask licecap
+cask minishift
+cask postman
+cask remembear
+cask spectacle
+cask transmission
+cask virtualbox
+cask vlc
+
+tap homebrew/cask-versions
+cask google-chrome-canary
+
+tap homebrew/versions
+
+tap caskroom/cask
 
 ## Direct install
 brew sshpass
@@ -164,16 +166,16 @@ cask chefdk
 cask coconutbattery
 cask docker
 cask firefox
-cask handbrake
-cask kindle
-cask licecap
-cask minishift
-cask postman
-cask remembear
-cask spectacle
-cask transmission
-cask virtualbox
-cask vlc
+cask jumpcut
+cask kitematic
+cask minikube
+cask p4v
+cask powershell
+cask slack
+cask spotify
+cask vagrant
+cask visual-studio-code
+cask xquartz
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
