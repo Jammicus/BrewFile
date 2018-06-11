@@ -121,6 +121,11 @@ brew youtube-dl
 brew z
 brew zsh
 
+tap homebrew/cask-versions
+cask google-chrome-canary
+
+tap homebrew/versions
+
 tap homebrew/cask
 cask android-ndk
 cask anki
@@ -130,23 +135,16 @@ cask chromium
 cask dash
 cask fastlane
 cask google-chrome
-cask handbrake
-cask kindle
-cask licecap
-cask minishift
-cask postman
-cask remembear
-cask spectacle
-cask transmission
-cask virtualbox
-cask vlc
-
-tap homebrew/cask-versions
-cask google-chrome-canary
-
-tap homebrew/versions
-
-tap caskroom/cask
+cask jumpcut
+cask kitematic
+cask minikube
+cask p4v
+cask powershell
+cask slack
+cask spotify
+cask vagrant
+cask visual-studio-code
+cask xquartz
 
 ## Direct install
 brew sshpass
@@ -166,16 +164,17 @@ cask chefdk
 cask coconutbattery
 cask docker
 cask firefox
-cask jumpcut
-cask kitematic
-cask minikube
-cask p4v
-cask powershell
-cask slack
-cask spotify
-cask vagrant
-cask visual-studio-code
-cask xquartz
+cask firefoxdeveloperedition
+cask handbrake
+cask kindle
+cask licecap
+cask minishift
+cask postman
+cask remembear
+cask spectacle
+cask transmission
+cask virtualbox
+cask vlc
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
@@ -185,4 +184,6 @@ appstore 539883307 LINE (5.8.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (5.0.1)
 appstore 409201541 Pages (7.0.1)
+appstore 585829637 Todoist (7.0.13)
+appstore 410628904 Wunderlist (3.4.8)
 appstore 497799835 Xcode (9.4)
