@@ -86,6 +86,7 @@ brew phantomjs
 brew pkg-config
 brew python
 brew python@2
+brew qt
 brew rancher-cli
 brew rbenv
 brew rbenv-chefdk
@@ -128,23 +129,24 @@ tap homebrew/versions
 
 tap homebrew/cask
 cask android-ndk
-cask anki
-cask atom
-cask calibre
+cask android-studio
+cask appcleaner
+cask cakebrew
+cask cheatsheet
 cask chromium
 cask dash
 cask fastlane
 cask google-chrome
-cask jumpcut
-cask kitematic
-cask minikube
-cask p4v
-cask powershell
-cask slack
-cask spotify
-cask vagrant
-cask visual-studio-code
-cask xquartz
+cask intel-haxm
+cask kindle
+cask licecap
+cask minishift
+cask postman
+cask remembear
+cask spectacle
+cask transmission
+cask virtualbox
+cask vlc
 
 ## Direct install
 brew sshpass
@@ -157,24 +159,25 @@ brew chromedriver
 
 # Other Cask applications
 cask android-sdk
-cask appcleaner
-cask cakebrew
-cask cheatsheet
+cask anki
+cask atom
+cask calibre
 cask chefdk
 cask coconutbattery
 cask docker
 cask firefox
 cask firefoxdeveloperedition
 cask handbrake
-cask kindle
-cask licecap
-cask minishift
-cask postman
-cask remembear
-cask spectacle
-cask transmission
-cask virtualbox
-cask vlc
+cask jumpcut
+cask kitematic
+cask minikube
+cask p4v
+cask powershell
+cask slack
+cask spotify
+cask vagrant
+cask visual-studio-code
+cask xquartz
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
@@ -184,6 +187,6 @@ appstore 539883307 LINE (5.8.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (5.1)
 appstore 409201541 Pages (7.1)
-appstore 585829637 Todoist (7.0.13)
+appstore 585829637 Todoist (7.0.14)
 appstore 410628904 Wunderlist (3.4.8)
 appstore 497799835 Xcode (9.4.1)
