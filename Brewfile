@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew ansible
+brew ansible-lint
 brew ant
 brew archey
 brew asciinema
@@ -72,7 +73,6 @@ brew moreutils
 brew mpfr
 brew nettle
 brew node
-brew node@4
 brew nvm
 brew oniguruma
 brew openshift-cli
@@ -157,6 +157,7 @@ brew brew-file
 
 # Other Homebrew packages
 brew chromedriver
+brew node@4
 
 # Other Cask applications
 cask android-sdk
@@ -184,10 +185,10 @@ cask xquartz
 appstore 937984704 Amphetamine (3.0.2)
 appstore 1091189122 Bear (1.5.5)
 appstore 409183694 Keynote (8.1)
-appstore 539883307 LINE (5.9.2)
+appstore 539883307 LINE (5.9.3)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.1)
 appstore 409201541 Pages (7.1)
-appstore 585829637 Todoist (7.0.14)
+appstore 585829637 Todoist (7.0.15)
 appstore 410628904 Wunderlist (3.4.8)
 appstore 497799835 Xcode (9.4.1)
