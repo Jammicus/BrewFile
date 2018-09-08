@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew ansible
+brew ansible-lint
 brew ant
 brew archey
 brew asciinema
@@ -51,6 +52,7 @@ brew kubernetes-helm
 brew lame
 brew libffi
 brew libgpg-error
+brew libiconv
 brew libidn2
 brew libksba
 brew libmpc
@@ -71,7 +73,6 @@ brew moreutils
 brew mpfr
 brew nettle
 brew node
-brew node@4
 brew nvm
 brew oniguruma
 brew openshift-cli
@@ -86,6 +87,7 @@ brew phantomjs
 brew pkg-config
 brew python
 brew python@2
+brew qt
 brew rancher-cli
 brew rbenv
 brew rbenv-chefdk
@@ -127,13 +129,54 @@ tap homebrew/versions
 
 tap homebrew/cask
 cask android-ndk
-cask anki
-cask atom
-cask calibre
+cask android-studio
+cask appcleaner
+cask cakebrew
+cask cheatsheet
 cask chromium
 cask dash
 cask fastlane
 cask google-chrome
+cask intel-haxm
+cask kindle
+cask licecap
+cask minishift
+cask postman
+cask remembear
+cask spectacle
+cask transmission
+cask virtualbox
+cask vlc
+
+## Direct install
+brew sshpass
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Homebrew packages
+brew chromedriver
+brew node@4
+
+# Other Cask applications
+cask android-sdk
+cask appcleaner
+cask anki
+cask atom
+cask calibre
+cask chefdk
+cask coconutbattery
+cask docker
+cask firefox
+cask firefoxdeveloperedition
+cask handbrake
+cask kindle
+cask minishift
+cask postman
+cask spectacle
+cask transmission
+cask virtualbox
+cask vlc
 cask jumpcut
 cask kitematic
 cask minikube
@@ -145,39 +188,14 @@ cask vagrant
 cask visual-studio-code
 cask xquartz
 
-## Direct install
-brew sshpass
-
-tap rcmdnk/file
-brew brew-file
-
-# Other Homebrew packages
-brew chromedriver
-
-# Other Cask applications
-cask android-sdk
-cask appcleaner
-cask cakebrew
-cask chefdk
-cask coconutbattery
-cask docker
-cask firefox
-cask handbrake
-cask kindle
-cask licecap
-cask minishift
-cask postman
-cask spectacle
-cask transmission
-cask virtualbox
-cask vlc
-
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
 appstore 1091189122 Bear (1.5.5)
-appstore 409183694 Keynote (8.0.1)
-appstore 539883307 LINE (5.8.0)
-appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 409203825 Numbers (5.0.1)
-appstore 409201541 Pages (7.0.1)
-appstore 497799835 Xcode (9.4)
+appstore 409183694 Keynote (8.1)
+appstore 539883307 LINE (5.9.3)
+appstore 715768417 Microsoft Remote Desktop (8.0.30030)
+appstore 409203825 Numbers (5.1)
+appstore 409201541 Pages (7.1)
+appstore 585829637 Todoist (7.0.16)
+appstore 410628904 Wunderlist (3.4.8)
+appstore 497799835 Xcode (9.4.1)
