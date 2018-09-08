@@ -96,7 +96,6 @@ brew ruby-build
 brew s-lang
 brew sbt
 brew scala
-brew sl
 brew socat
 brew speedtest-cli
 brew sqlite
@@ -159,7 +158,6 @@ brew chromedriver
 cask android-sdk
 cask appcleaner
 cask cakebrew
-cask cheatsheet
 cask chefdk
 cask coconutbattery
 cask docker
@@ -169,7 +167,6 @@ cask kindle
 cask licecap
 cask minishift
 cask postman
-cask remembear
 cask spectacle
 cask transmission
 cask virtualbox
