@@ -98,6 +98,7 @@ brew ruby-build
 brew s-lang
 brew sbt
 brew scala
+brew sl
 brew socat
 brew speedtest-cli
 brew sqlite
@@ -160,7 +161,6 @@ brew node@4
 
 # Other Cask applications
 cask android-sdk
-cask appcleaner
 cask anki
 cask atom
 cask calibre
@@ -170,13 +170,6 @@ cask docker
 cask firefox
 cask firefoxdeveloperedition
 cask handbrake
-cask kindle
-cask minishift
-cask postman
-cask spectacle
-cask transmission
-cask virtualbox
-cask vlc
 cask jumpcut
 cask kitematic
 cask minikube
