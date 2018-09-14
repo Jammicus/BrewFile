@@ -21,6 +21,8 @@ brew cscope
 brew csvkit
 brew dialog
 brew docker
+brew docker-machine
+brew docker-machine-driver-hyperkit
 brew emacs
 brew ffmpeg
 brew fortune
@@ -106,6 +108,7 @@ brew ssh-copy-id
 brew telnet
 brew terraform
 brew thefuck
+brew timewarrior
 brew tldr
 brew tomcat
 brew tomcat@7
@@ -186,6 +189,7 @@ appstore 937984704 Amphetamine (3.0.2)
 appstore 1091189122 Bear (1.5.5)
 appstore 409183694 Keynote (8.1)
 appstore 539883307 LINE (5.9.3)
+appstore 1295203466 Microsoft Remote Desktop (10.2.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.1)
 appstore 409201541 Pages (7.1)
