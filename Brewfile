@@ -185,14 +185,14 @@ cask visual-studio-code
 cask xquartz
 
 # App Store applications
-appstore 937984704 Amphetamine (3.0.2)
-appstore 1091189122 Bear (1.6.1)
+appstore 937984704 Amphetamine (4.0)
+appstore 1091189122 Bear (1.6.2)
 appstore 409183694 Keynote (8.2)
 appstore 539883307 LINE (5.10.0)
 appstore 1295203466 Microsoft Remote Desktop (10.2.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.2)
 appstore 409201541 Pages (7.2)
-appstore 585829637 Todoist (7.0.16)
+appstore 585829637 Todoist (7.1)
 appstore 410628904 Wunderlist (3.4.8)
 appstore 497799835 Xcode (10.0)
