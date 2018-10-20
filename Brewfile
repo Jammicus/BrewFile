@@ -7,7 +7,6 @@ brew ansible-lint
 brew ant
 brew archey
 brew asciinema
-brew asciinema2gif
 brew augeas
 brew autoconf
 brew automake
@@ -47,6 +46,7 @@ brew imagemagick
 brew isl
 brew jpeg
 brew jq
+brew kotlin
 brew kubernetes-cli
 brew kubernetes-helm
 brew lame
@@ -83,7 +83,6 @@ brew p11-kit
 brew packer
 brew pcre
 brew pcre2
-brew phantomjs
 brew pkg-config
 brew python
 brew python@2
@@ -131,62 +130,60 @@ tap homebrew/cask
 cask android-ndk
 cask android-studio
 cask appcleaner
-cask cakebrew
-cask cheatsheet
+cask atom
+cask calibre
 cask chromium
 cask dash
-cask fastlane
+cask firefox
 cask google-chrome
 cask intel-haxm
 cask kindle
-cask licecap
+cask kitematic
+cask minikube
 cask minishift
 cask postman
-cask remembear
+cask powershell
+cask slack
 cask spectacle
 cask transmission
+cask vagrant
 cask virtualbox
 cask vlc
-
-## Direct install
-brew sshpass
+cask xquartz
 
 tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew asciinema2gif
 brew chromedriver
 brew node@4
+brew sshpass
 
 # Other Cask applications
 cask android-sdk
-cask appcleaner
 cask anki
-cask atom
-cask calibre
+cask appcleaner
+cask cakebrew
+cask cheatsheet
 cask chefdk
 cask coconutbattery
 cask docker
-cask firefox
 cask firefoxdeveloperedition
 cask handbrake
+cask jumpcut
 cask kindle
+cask licecap
 cask minishift
+cask p4v
 cask postman
+cask remembear
 cask spectacle
+cask spotify
 cask transmission
 cask virtualbox
-cask vlc
-cask jumpcut
-cask kitematic
-cask minikube
-cask p4v
-cask powershell
-cask slack
-cask spotify
-cask vagrant
 cask visual-studio-code
-cask xquartz
+cask vlc
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
