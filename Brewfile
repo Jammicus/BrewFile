@@ -20,6 +20,8 @@ brew cscope
 brew csvkit
 brew dialog
 brew docker
+brew docker-machine
+brew docker-machine-driver-hyperkit
 brew emacs
 brew ffmpeg
 brew fortune
@@ -97,6 +99,7 @@ brew ruby-build
 brew s-lang
 brew sbt
 brew scala
+brew sl
 brew socat
 brew speedtest-cli
 brew sqlite
@@ -104,6 +107,7 @@ brew ssh-copy-id
 brew telnet
 brew terraform
 brew thefuck
+brew timewarrior
 brew tldr
 brew tomcat
 brew tomcat@7
@@ -182,16 +186,24 @@ cask transmission
 cask vagrant
 cask virtualbox
 cask vlc
+cask minikube
+cask p4v
+cask powershell
+cask slack
+cask spotify
+cask vagrant
+cask visual-studio-code
 cask xquartz
 
 # App Store applications
-appstore 937984704 Amphetamine (3.0.2)
-appstore 1091189122 Bear (1.5.5)
-appstore 409183694 Keynote (8.1)
-appstore 539883307 LINE (5.9.3)
+appstore 937984704 Amphetamine (4.0)
+appstore 1091189122 Bear (1.6.2)
+appstore 409183694 Keynote (8.2)
+appstore 539883307 LINE (5.10.0)
+appstore 1295203466 Microsoft Remote Desktop (10.2.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 409203825 Numbers (5.1)
-appstore 409201541 Pages (7.1)
-appstore 585829637 Todoist (7.0.16)
+appstore 409203825 Numbers (5.2)
+appstore 409201541 Pages (7.2)
+appstore 585829637 Todoist (7.1)
 appstore 410628904 Wunderlist (3.4.8)
-appstore 497799835 Xcode (9.4.1)
+appstore 497799835 Xcode (10.0)
