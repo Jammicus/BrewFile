@@ -143,13 +143,16 @@ cask google-chrome
 cask intel-haxm
 cask kindle
 cask licecap
+cask minikube
 cask minishift
 cask p4v
 cask postman
-cask remembear
+cask powershell
+cask slack
 cask spectacle
 cask spotify
 cask transmission
+cask vagrant
 cask virtualbox
 cask visual-studio-code
 cask vlc
@@ -178,21 +181,17 @@ cask jumpcut
 cask kindle
 cask minikube
 cask minishift
+cask p4v
 cask postman
 cask powershell
 cask slack
 cask spectacle
+cask spotify
 cask transmission
 cask vagrant
 cask virtualbox
-cask vlc
-cask minikube
-cask p4v
-cask powershell
-cask slack
-cask spotify
-cask vagrant
 cask visual-studio-code
+cask vlc
 cask xquartz
 
 # App Store applications
