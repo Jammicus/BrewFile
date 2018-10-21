@@ -138,18 +138,17 @@ cask firefox
 cask google-chrome
 cask intel-haxm
 cask kindle
-cask kitematic
-cask minikube
+cask licecap
 cask minishift
+cask p4v
 cask postman
-cask powershell
-cask slack
+cask remembear
 cask spectacle
+cask spotify
 cask transmission
-cask vagrant
 cask virtualbox
+cask visual-studio-code
 cask vlc
-cask xquartz
 
 tap rcmdnk/file
 brew brew-file
@@ -173,17 +172,17 @@ cask firefoxdeveloperedition
 cask handbrake
 cask jumpcut
 cask kindle
-cask licecap
+cask minikube
 cask minishift
-cask p4v
 cask postman
-cask remembear
+cask powershell
+cask slack
 cask spectacle
-cask spotify
 cask transmission
+cask vagrant
 cask virtualbox
-cask visual-studio-code
 cask vlc
+cask xquartz
 
 # App Store applications
 appstore 937984704 Amphetamine (3.0.2)
