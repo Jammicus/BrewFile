@@ -14,6 +14,7 @@ brew bats
 brew calc
 brew cask
 brew certbot
+brew cmake
 brew coreutils
 brew cowsay
 brew cscope
@@ -65,21 +66,27 @@ brew libtiff
 brew libtool
 brew libunistring
 brew libvorbis
+brew libvpx
 brew libyaml
 brew libzip
+brew little-cms2
 brew macvim
+brew makedepend
 brew mas
 brew maven
 brew molecule
 brew moreutils
 brew mpfr
+brew ncurses
 brew nettle
 brew node
 brew nvm
 brew oniguruma
+brew openjpeg
 brew openshift-cli
 brew openssl
 brew openssl@1.1
+brew opus
 brew osxutils
 brew p11-kit
 brew packer
@@ -99,7 +106,9 @@ brew ruby-build
 brew s-lang
 brew sbt
 brew scala
+brew sdl2
 brew sl
+brew snappy
 brew socat
 brew speedtest-cli
 brew sqlite
@@ -107,6 +116,7 @@ brew ssh-copy-id
 brew telnet
 brew terraform
 brew thefuck
+brew theora
 brew timewarrior
 brew tldr
 brew tomcat
@@ -114,9 +124,11 @@ brew tomcat@7
 brew trash
 brew tree
 brew webkit2png
+brew webp
 brew wget
 brew wine
 brew x264
+brew x265
 brew xml-coreutils
 brew xvid
 brew xz
@@ -134,28 +146,25 @@ tap homebrew/cask
 cask android-ndk
 cask android-studio
 cask appcleaner
-cask atom
-cask calibre
+cask cakebrew
+cask cheatsheet
 cask chromium
 cask dash
-cask firefox
+cask fastlane
 cask google-chrome
 cask intel-haxm
 cask kindle
 cask licecap
-cask minikube
 cask minishift
-cask p4v
 cask postman
-cask powershell
-cask slack
+cask remembear
 cask spectacle
-cask spotify
 cask transmission
-cask vagrant
 cask virtualbox
-cask visual-studio-code
 cask vlc
+
+## Direct install
+brew sshpass
 
 tap rcmdnk/file
 brew brew-file
@@ -164,45 +173,38 @@ brew brew-file
 brew asciinema2gif
 brew chromedriver
 brew node@4
-brew sshpass
 
 # Other Cask applications
 cask android-sdk
 cask anki
-cask appcleaner
-cask cakebrew
-cask cheatsheet
+cask atom
+cask calibre
 cask chefdk
 cask coconutbattery
 cask docker
+cask firefox
 cask firefoxdeveloperedition
 cask handbrake
 cask jumpcut
-cask kindle
+cask kitematic
 cask minikube
-cask minishift
 cask p4v
-cask postman
 cask powershell
 cask slack
-cask spectacle
 cask spotify
-cask transmission
 cask vagrant
-cask virtualbox
 cask visual-studio-code
-cask vlc
 cask xquartz
 
 # App Store applications
-appstore 937984704 Amphetamine (4.0)
-appstore 1091189122 Bear (1.6.2)
+appstore 937984704 Amphetamine (4.0.4)
+appstore 1091189122 Bear (1.6.6)
 appstore 409183694 Keynote (8.2)
-appstore 539883307 LINE (5.10.0)
-appstore 1295203466 Microsoft Remote Desktop (10.2.1)
+appstore 539883307 LINE (5.10.1)
+appstore 1295203466 Microsoft Remote Desktop (10.2.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.2)
 appstore 409201541 Pages (7.2)
 appstore 585829637 Todoist (7.1)
-appstore 410628904 Wunderlist (3.4.8)
+appstore 410628904 Wunderlist (3.4.9)
 appstore 497799835 Xcode (10.0)
