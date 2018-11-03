@@ -183,7 +183,6 @@ cask chefdk
 cask coconutbattery
 cask docker
 cask firefox
-cask firefoxdeveloperedition
 cask handbrake
 cask jumpcut
 cask kitematic
@@ -202,7 +201,6 @@ appstore 1091189122 Bear (1.6.6)
 appstore 409183694 Keynote (8.2)
 appstore 539883307 LINE (5.10.1)
 appstore 1295203466 Microsoft Remote Desktop (10.2.2)
-appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.2)
 appstore 409201541 Pages (7.2)
 appstore 585829637 Todoist (7.1)
