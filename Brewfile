@@ -159,9 +159,10 @@ cask minishift
 cask postman
 cask remembear
 cask spectacle
-cask transmission
-cask virtualbox
-cask vlc
+cask station
+cask vagrant
+cask visual-studio-code
+cask xquartz
 
 ## Direct install
 brew sshpass
@@ -192,19 +193,19 @@ cask p4v
 cask powershell
 cask slack
 cask spotify
-cask vagrant
-cask visual-studio-code
-cask xquartz
+cask transmission
+cask virtualbox
+cask vlc
 
 # App Store applications
 appstore 937984704 Amphetamine (4.0.4)
 appstore 1091189122 Bear (1.6.6)
-appstore 409183694 Keynote (8.2)
-appstore 539883307 LINE (5.10.1)
-appstore 1295203466 Microsoft Remote Desktop (10.2.2)
+appstore 409183694 Keynote (8.3)
+appstore 539883307 LINE (5.11.1)
+appstore 1295203466 Microsoft Remote Desktop (10.2.3)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 409203825 Numbers (5.2)
-appstore 409201541 Pages (7.2)
-appstore 585829637 Todoist (7.1)
+appstore 409203825 Numbers (5.3)
+appstore 409201541 Pages (7.3)
+appstore 585829637 Todoist (7.1.1)
 appstore 410628904 Wunderlist (3.4.9)
 appstore 497799835 Xcode (10.1)
