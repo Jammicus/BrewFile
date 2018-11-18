@@ -156,15 +156,13 @@ cask intel-haxm
 cask kindle
 cask licecap
 cask minishift
-cask postman
-cask remembear
-cask spectacle
+cask p4v
+cask powershell
+cask slack
+cask spotify
 cask transmission
 cask virtualbox
 cask vlc
-
-## Direct install
-brew sshpass
 
 tap rcmdnk/file
 brew brew-file
@@ -173,6 +171,7 @@ brew brew-file
 brew asciinema2gif
 brew chromedriver
 brew node@4
+brew sshpass
 
 # Other Cask applications
 cask android-sdk
@@ -184,13 +183,14 @@ cask coconutbattery
 cask docker
 cask firefox
 cask handbrake
+cask https://raw.githubusercontent.com/Homebrew/homebrew-cask/master/Casks/wineskin-winery.rb
 cask jumpcut
 cask kitematic
 cask minikube
-cask p4v
-cask powershell
-cask slack
-cask spotify
+cask numi
+cask postman
+cask spectacle
+cask station
 cask vagrant
 cask visual-studio-code
 cask xquartz
