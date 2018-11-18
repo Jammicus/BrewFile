@@ -157,18 +157,12 @@ cask kindle
 cask licecap
 cask minishift
 cask p4v
-cask postman
 cask powershell
-cask slack
 cask spectacle
-cask spotify
 cask station
-cask transmission
 cask vagrant
-cask virtualbox
 cask visual-studio-code
-cask vlc
-cask xquartz
+cask wineskin-winery
 
 tap rcmdnk/file
 brew brew-file
@@ -189,22 +183,15 @@ cask coconutbattery
 cask docker
 cask firefox
 cask handbrake
-cask https://raw.githubusercontent.com/Homebrew/homebrew-cask/master/Casks/wineskin-winery.rb
 cask jumpcut
 cask kitematic
 cask minikube
 cask numi
-cask p4v
 cask postman
-cask powershell
 cask slack
-cask spectacle
 cask spotify
-cask station
 cask transmission
-cask vagrant
 cask virtualbox
-cask visual-studio-code
 cask vlc
 cask xquartz
 
@@ -220,5 +207,3 @@ appstore 409201541 Pages (7.3)
 appstore 585829637 Todoist (7.1.1)
 appstore 410628904 Wunderlist (3.4.9)
 appstore 497799835 Xcode (10.1)
-
-# Other commands
