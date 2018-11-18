@@ -180,7 +180,6 @@ brew node@4
 brew sshpass
 
 # Other Cask applications
-cask RememBear
 cask android-sdk
 cask anki
 cask atom
