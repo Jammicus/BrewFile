@@ -188,7 +188,6 @@ cask chefdk
 cask coconutbattery
 cask docker
 cask firefox
-cask firefoxdeveloperedition
 cask handbrake
 cask https://raw.githubusercontent.com/Homebrew/homebrew-cask/master/Casks/wineskin-winery.rb
 cask jumpcut
