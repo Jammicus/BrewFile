@@ -156,23 +156,19 @@ cask intel-haxm
 cask kindle
 cask licecap
 cask minishift
-<<<<<<< HEAD
 cask p4v
+cask postman
 cask powershell
 cask slack
-cask spotify
-cask transmission
-cask virtualbox
-cask vlc
-=======
-cask postman
-cask remembear
 cask spectacle
+cask spotify
 cask station
+cask transmission
 cask vagrant
+cask virtualbox
 cask visual-studio-code
+cask vlc
 cask xquartz
->>>>>>> 1151b1444b2c7c169014b90c9862f02acce9992b
 
 tap rcmdnk/file
 brew brew-file
@@ -184,6 +180,7 @@ brew node@4
 brew sshpass
 
 # Other Cask applications
+cask RememBear
 cask android-sdk
 cask anki
 cask atom
@@ -199,19 +196,19 @@ cask jumpcut
 cask kitematic
 cask minikube
 cask numi
-cask postman
-cask spectacle
-cask station
-cask vagrant
-cask visual-studio-code
-cask xquartz
 cask p4v
+cask postman
 cask powershell
 cask slack
+cask spectacle
 cask spotify
+cask station
 cask transmission
+cask vagrant
 cask virtualbox
+cask visual-studio-code
 cask vlc
+cask xquartz
 
 # App Store applications
 appstore 937984704 Amphetamine (4.0.4)
@@ -225,3 +222,5 @@ appstore 409201541 Pages (7.3)
 appstore 585829637 Todoist (7.1.1)
 appstore 410628904 Wunderlist (3.4.9)
 appstore 497799835 Xcode (10.1)
+
+# Other commands
