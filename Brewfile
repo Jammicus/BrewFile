@@ -196,7 +196,7 @@ cask vlc
 cask xquartz
 
 # App Store applications
-appstore 937984704 Amphetamine (4.0.4)
+appstore 937984704 Amphetamine (4.0.5)
 appstore 1091189122 Bear (1.6.6)
 appstore 409183694 Keynote (8.3)
 appstore 1295203466 Microsoft Remote Desktop (10.2.3)
