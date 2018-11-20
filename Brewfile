@@ -165,9 +165,6 @@ cask virtualbox
 cask vlc
 cask xquartz
 
-## Direct install
-brew sshpass
-
 tap rcmdnk/file
 brew brew-file
 
@@ -175,6 +172,7 @@ brew brew-file
 brew asciinema2gif
 brew chromedriver
 brew node@4
+brew sshpass
 
 # Other Cask applications
 cask android-sdk
