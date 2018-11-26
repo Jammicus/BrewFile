@@ -70,6 +70,8 @@ brew libvpx
 brew libyaml
 brew libzip
 brew little-cms2
+brew lua
+brew luajit
 brew macvim
 brew makedepend
 brew mas
