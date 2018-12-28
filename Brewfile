@@ -145,11 +145,11 @@ cask google-chrome-canary
 tap homebrew/versions
 
 tap homebrew/cask
-cask android-ndk
-cask android-studio
-cask appcleaner
-cask cakebrew
-cask cheatsheet
+cask adoptopenjdk
+cask android-sdk
+cask anki
+cask atom
+cask calibre
 cask chromium
 cask dash
 cask fastlane
@@ -177,10 +177,11 @@ brew node@4
 brew sshpass
 
 # Other Cask applications
-cask android-sdk
-cask anki
-cask atom
-cask calibre
+cask android-ndk
+cask android-studio
+cask appcleaner
+cask cakebrew
+cask cheatsheet
 cask chefdk
 cask coconutbattery
 cask docker
@@ -201,13 +202,13 @@ cask wineskin-winery
 
 # App Store applications
 appstore 937984704 Amphetamine (4.0.5)
-appstore 1091189122 Bear (1.6.6)
+appstore 1091189122 Bear (1.6.7)
 appstore 409183694 Keynote (8.3)
-appstore 539883307 LINE (5.11.2)
-appstore 1295203466 Microsoft Remote Desktop (10.2.3)
+appstore 539883307 LINE (5.12.0)
+appstore 1295203466 Microsoft Remote Desktop (10.2.4)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
 appstore 585829637 Todoist (7.1.1)
-appstore 410628904 Wunderlist (3.4.9)
+appstore 410628904 Wunderlist (3.4.10)
 appstore 497799835 Xcode (10.1)
