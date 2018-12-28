@@ -186,6 +186,7 @@ cask chefdk
 cask coconutbattery
 cask docker
 cask firefox
+cask firefoxdeveloperedition
 cask handbrake
 cask jumpcut
 cask kitematic
