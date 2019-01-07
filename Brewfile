@@ -34,6 +34,7 @@ brew gifsicle
 brew git
 brew git-crypt
 brew git-lfs
+brew git-secrets
 brew gitlab-runner
 brew gmp
 brew gnu-sed
