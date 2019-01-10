@@ -23,6 +23,7 @@ brew dialog
 brew docker
 brew docker-machine
 brew docker-machine-driver-hyperkit
+brew doxygen
 brew emacs
 brew ffmpeg
 brew fortune
@@ -78,6 +79,7 @@ brew makedepend
 brew mas
 brew maven
 brew molecule
+brew mono
 brew moreutils
 brew mpfr
 brew ncurses
