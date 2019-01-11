@@ -62,6 +62,7 @@ brew libidn2
 brew libksba
 brew libmpc
 brew libogg
+brew libomp
 brew libpng
 brew libtasn1
 brew libtiff
