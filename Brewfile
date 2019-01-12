@@ -174,9 +174,6 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-brew asciinema2gif
-brew chromedriver
-brew node@4
 brew sshpass
 
 # Other Cask applications
@@ -189,8 +186,6 @@ cask coconutbattery
 cask docker
 cask firefox
 cask handbrake
-cask jumpcut
-cask kitematic
 cask minikube
 cask postman
 cask spectacle
