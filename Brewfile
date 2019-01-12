@@ -6,7 +6,6 @@ brew ansible
 brew ansible-lint
 brew ant
 brew archey
-brew asciinema
 brew augeas
 brew autoconf
 brew automake
@@ -181,19 +180,15 @@ cask android-ndk
 cask android-studio
 cask appcleaner
 cask cakebrew
-cask cheatsheet
 cask chefdk
 cask coconutbattery
 cask docker
 cask firefox
-cask firefoxdeveloperedition
 cask handbrake
 cask jumpcut
 cask kitematic
 cask minikube
-cask numi
 cask postman
-cask remembear
 cask spectacle
 cask station
 cask vagrant
@@ -209,6 +204,4 @@ appstore 1295203466 Microsoft Remote Desktop (10.2.4)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
-appstore 585829637 Todoist (7.1.1)
-appstore 410628904 Wunderlist (3.4.10)
 appstore 497799835 Xcode (10.1)
