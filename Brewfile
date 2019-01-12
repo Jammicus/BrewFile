@@ -22,6 +22,7 @@ brew dialog
 brew docker
 brew docker-machine
 brew docker-machine-driver-hyperkit
+brew doxygen
 brew emacs
 brew ffmpeg
 brew fortune
@@ -33,6 +34,7 @@ brew gifsicle
 brew git
 brew git-crypt
 brew git-lfs
+brew git-secrets
 brew gitlab-runner
 brew gmp
 brew gnu-sed
@@ -59,6 +61,7 @@ brew libidn2
 brew libksba
 brew libmpc
 brew libogg
+brew libomp
 brew libpng
 brew libtasn1
 brew libtiff
@@ -76,6 +79,7 @@ brew makedepend
 brew mas
 brew maven
 brew molecule
+brew mono
 brew moreutils
 brew mpfr
 brew ncurses
@@ -196,10 +200,10 @@ cask visual-studio-code
 cask wineskin-winery
 
 # App Store applications
-appstore 937984704 Amphetamine (4.0.5)
+appstore 937984704 Amphetamine (4.1.3)
 appstore 1091189122 Bear (1.6.7)
 appstore 409183694 Keynote (8.3)
-appstore 539883307 LINE (5.12.0)
+appstore 539883307 LINE (5.12.1)
 appstore 1295203466 Microsoft Remote Desktop (10.2.4)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 409203825 Numbers (5.3)
