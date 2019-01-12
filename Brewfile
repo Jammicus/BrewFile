@@ -158,11 +158,9 @@ cask dash
 cask fastlane
 cask google-chrome
 cask intel-haxm
-cask kindle
 cask licecap
 cask minishift
-cask p4v
-cask powershell
+cask postman
 cask slack
 cask spotify
 cask transmission
@@ -186,8 +184,10 @@ cask coconutbattery
 cask docker
 cask firefox
 cask handbrake
+cask kindle
 cask minikube
-cask postman
+cask p4v
+cask powershell
 cask spectacle
 cask station
 cask vagrant
@@ -201,6 +201,7 @@ appstore 409183694 Keynote (8.3)
 appstore 539883307 LINE (5.12.1)
 appstore 1295203466 Microsoft Remote Desktop (10.2.4)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
+appstore 1116599239 NordVPN IKE (4.8.7)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
 appstore 497799835 Xcode (10.1)
