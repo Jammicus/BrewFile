@@ -6,6 +6,7 @@ brew ansible
 brew ansible-lint
 brew ant
 brew archey
+brew asciinema
 brew augeas
 brew autoconf
 brew automake
@@ -116,6 +117,7 @@ brew sl
 brew snappy
 brew socat
 brew speedtest-cli
+brew sphinx-doc
 brew sqlite
 brew ssh-copy-id
 brew telnet
@@ -158,9 +160,11 @@ cask dash
 cask fastlane
 cask google-chrome
 cask intel-haxm
+cask kindle
 cask licecap
 cask minishift
-cask postman
+cask p4v
+cask powershell
 cask slack
 cask spotify
 cask transmission
@@ -172,6 +176,9 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew asciinema2gif
+brew chromedriver
+brew node@4
 brew sshpass
 
 # Other Cask applications
@@ -179,15 +186,19 @@ cask android-ndk
 cask android-studio
 cask appcleaner
 cask cakebrew
+cask cheatsheet
 cask chefdk
 cask coconutbattery
 cask docker
 cask firefox
+cask firefoxdeveloperedition
 cask handbrake
-cask kindle
+cask jumpcut
+cask kitematic
 cask minikube
-cask p4v
-cask powershell
+cask numi
+cask postman
+cask remembear
 cask spectacle
 cask station
 cask vagrant
@@ -204,4 +215,6 @@ appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 1116599239 NordVPN IKE (4.8.7)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
+appstore 585829637 Todoist (7.1.1)
+appstore 410628904 Wunderlist (3.4.10)
 appstore 497799835 Xcode (10.1)
