@@ -156,8 +156,8 @@ cask anki
 cask atom
 cask calibre
 cask chromium
-cask dash
-cask fastlane
+cask docker
+cask firefox
 cask google-chrome
 cask intel-haxm
 cask kindle
@@ -189,8 +189,7 @@ cask cakebrew
 cask cheatsheet
 cask chefdk
 cask coconutbattery
-cask docker
-cask firefox
+cask fastlane
 cask firefoxdeveloperedition
 cask handbrake
 cask jumpcut
@@ -215,6 +214,4 @@ appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 1116599239 NordVPN IKE (4.8.7)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
-appstore 585829637 Todoist (7.1.1)
-appstore 410628904 Wunderlist (3.4.10)
 appstore 497799835 Xcode (10.1)
