@@ -49,6 +49,7 @@ brew groovysdk
 brew icu4c
 brew imagemagick
 brew isl
+brew jfrog-cli-go
 brew jpeg
 brew jq
 brew kotlin
