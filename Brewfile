@@ -11,6 +11,7 @@ brew augeas
 brew autoconf
 brew automake
 brew bats
+brew cairo
 brew calc
 brew cask
 brew certbot
@@ -26,8 +27,11 @@ brew docker-machine-driver-hyperkit
 brew doxygen
 brew emacs
 brew ffmpeg
+brew fontconfig
 brew fortune
 brew freetype
+brew frei0r
+brew fribidi
 brew gcc
 brew gdbm
 brew gettext
@@ -37,15 +41,18 @@ brew git-crypt
 brew git-lfs
 brew git-secrets
 brew gitlab-runner
+brew glib
 brew gmp
 brew gnu-sed
 brew gnutls
 brew go
 brew gradle
 brew grafana
+brew graphite2
 brew grep
 brew groovy
 brew groovysdk
+brew harfbuzz
 brew icu4c
 brew imagemagick
 brew isl
@@ -56,6 +63,7 @@ brew kotlin
 brew kubernetes-cli
 brew kubernetes-helm
 brew lame
+brew libass
 brew libffi
 brew libgpg-error
 brew libiconv
@@ -89,6 +97,7 @@ brew nettle
 brew node
 brew nvm
 brew oniguruma
+brew opencore-amr
 brew openjpeg
 brew openshift-cli
 brew openssl
@@ -99,6 +108,7 @@ brew p11-kit
 brew packer
 brew pcre
 brew pcre2
+brew pixman
 brew pkg-config
 brew python
 brew python@2
@@ -108,6 +118,7 @@ brew rbenv
 brew rbenv-chefdk
 brew readline
 brew rename
+brew rtmpdump
 brew ruby
 brew ruby-build
 brew s-lang
@@ -118,6 +129,7 @@ brew sl
 brew snappy
 brew socat
 brew speedtest-cli
+brew speex
 brew sphinx-doc
 brew sqlite
 brew ssh-copy-id
