@@ -167,8 +167,6 @@ cask adoptopenjdk
 cask android-sdk
 cask anki
 cask atom
-cask cakebrew
-cask cheatsheet
 cask chromium
 cask docker
 cask firefox
@@ -198,12 +196,9 @@ brew sshpass
 cask android-ndk
 cask android-studio
 cask appcleaner
-cask cakebrew
 cask bitbar
 cask calibre
 cask chefdk
-cask coconutbattery
-cask fastlane
 cask google-chrome
 cask intel-haxm
 cask kindle
