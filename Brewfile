@@ -6,7 +6,6 @@ brew ansible
 brew ansible-lint
 brew ant
 brew archey
-brew asciinema
 brew augeas
 brew autoconf
 brew automake
@@ -125,6 +124,7 @@ brew s-lang
 brew sbt
 brew scala
 brew sdl2
+brew shfmt
 brew sl
 brew snappy
 brew socat
@@ -167,8 +167,8 @@ cask adoptopenjdk
 cask android-sdk
 cask anki
 cask atom
+cask calibre
 cask chromium
-cask docker
 cask firefox
 cask handbrake
 cask jumpcut
@@ -187,7 +187,6 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-brew asciinema2gif
 brew chromedriver
 brew node@4
 brew sshpass
@@ -197,8 +196,8 @@ cask android-ndk
 cask android-studio
 cask appcleaner
 cask bitbar
-cask calibre
 cask chefdk
+cask docker
 cask google-chrome
 cask intel-haxm
 cask kindle
