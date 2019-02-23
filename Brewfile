@@ -138,7 +138,6 @@ brew sbt
 brew scala
 brew sdl2
 brew shfmt
-brew sl
 brew snappy
 brew socat
 brew speedtest-cli
