@@ -5,6 +5,7 @@ tap homebrew/core
 brew ansible
 brew ansible-lint
 brew ant
+brew aom
 brew archey
 brew augeas
 brew autoconf
@@ -26,6 +27,7 @@ brew docker-machine-driver-hyperkit
 brew doxygen
 brew emacs
 brew ffmpeg
+brew flac
 brew fontconfig
 brew fortune
 brew freetype
@@ -34,6 +36,7 @@ brew fribidi
 brew gcc
 brew gdbm
 brew gettext
+brew giflib
 brew gifsicle
 brew git
 brew git-crypt
@@ -55,6 +58,7 @@ brew groovysdk
 brew harfbuzz
 brew htop
 brew icu4c
+brew ilmbase
 brew imagemagick
 brew isl
 brew jfrog-cli-go
@@ -64,9 +68,13 @@ brew kotlin
 brew kubernetes-cli
 brew kubernetes-helm
 brew lame
+brew leptonica
 brew libass
+brew libbluray
+brew libde265
 brew libffi
 brew libgpg-error
+brew libheif
 brew libiconv
 brew libidn2
 brew libksba
@@ -74,6 +82,9 @@ brew libmpc
 brew libogg
 brew libomp
 brew libpng
+brew libsamplerate
+brew libsndfile
+brew libsoxr
 brew libtasn1
 brew libtiff
 brew libtool
@@ -100,6 +111,7 @@ brew node
 brew nvm
 brew oniguruma
 brew opencore-amr
+brew openexr
 brew openjpeg
 brew openshift-cli
 brew openssl
@@ -121,6 +133,7 @@ brew rbenv-chefdk
 brew readline
 brew rename
 brew rtmpdump
+brew rubberband
 brew ruby
 brew ruby-build
 brew s-lang
@@ -128,7 +141,6 @@ brew sbt
 brew scala
 brew sdl2
 brew shfmt
-brew sl
 brew snappy
 brew socat
 brew speedtest-cli
@@ -138,6 +150,7 @@ brew sqlite
 brew ssh-copy-id
 brew telnet
 brew terraform
+brew tesseract
 brew thefuck
 brew theora
 brew timewarrior
@@ -190,7 +203,6 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-brew chromedriver
 brew sshpass
 
 # Other Cask applications
@@ -213,13 +225,13 @@ cask visual-studio-code
 cask wineskin-winery
 
 # App Store applications
-appstore 937984704 Amphetamine (4.1.3)
-appstore 1091189122 Bear (1.6.7)
+appstore 937984704 Amphetamine (4.1.4)
+appstore 1091189122 Bear (1.6.10)
 appstore 409183694 Keynote (8.3)
-appstore 539883307 LINE (5.12.1)
-appstore 1295203466 Microsoft Remote Desktop (10.2.4)
+appstore 539883307 LINE (5.14.0)
+appstore 1295203466 Microsoft Remote Desktop (10.2.7)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 1116599239 NordVPN IKE (4.8.7)
+appstore 1116599239 NordVPN IKE (4.11.7)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
 appstore 497799835 Xcode (10.1)
