@@ -43,6 +43,7 @@ brew gitlab-runner
 brew glib
 brew gmp
 brew gnu-sed
+brew gnu-tar
 brew gnutls
 brew go
 brew gradle
@@ -52,6 +53,7 @@ brew grep
 brew groovy
 brew groovysdk
 brew harfbuzz
+brew htop
 brew icu4c
 brew imagemagick
 brew isl
@@ -93,6 +95,7 @@ brew moreutils
 brew mpfr
 brew ncurses
 brew nettle
+brew nmap
 brew node
 brew nvm
 brew oniguruma
@@ -188,7 +191,6 @@ brew brew-file
 
 # Other Homebrew packages
 brew chromedriver
-brew node@4
 brew sshpass
 
 # Other Cask applications
@@ -204,7 +206,6 @@ cask kindle
 cask minikube
 cask numi
 cask postman
-cask remembear
 cask spectacle
 cask station
 cask vagrant
