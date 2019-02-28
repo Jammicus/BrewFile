@@ -218,6 +218,7 @@ cask kindle
 cask minikube
 cask numi
 cask postman
+cask remembear
 cask spectacle
 cask station
 cask vagrant
