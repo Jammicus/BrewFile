@@ -20,7 +20,6 @@ brew coreutils
 brew cowsay
 brew cscope
 brew csvkit
-brew dep
 brew dialog
 brew docker
 brew docker-machine
