@@ -7,6 +7,7 @@ brew ansible-lint
 brew ant
 brew aom
 brew archey
+brew asciinema
 brew augeas
 brew autoconf
 brew automake
@@ -140,7 +141,7 @@ brew s-lang
 brew sbt
 brew scala
 brew sdl2
-brew shfmt
+brew sl
 brew snappy
 brew socat
 brew speedtest-cli
@@ -183,11 +184,12 @@ cask adoptopenjdk
 cask android-sdk
 cask anki
 cask atom
-cask calibre
+cask cakebrew
+cask cheatsheet
 cask chromium
-cask firefox
-cask handbrake
-cask jumpcut
+cask docker
+cask google-chrome
+cask intel-haxm
 cask licecap
 cask minishift
 cask p4v
@@ -203,6 +205,9 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew asciinema2gif
+brew chromedriver
+brew node@4
 brew sshpass
 
 # Other Cask applications
@@ -210,14 +215,17 @@ cask android-ndk
 cask android-studio
 cask appcleaner
 cask bitbar
+cask calibre
 cask chefdk
-cask docker
-cask google-chrome
-cask intel-haxm
+cask coconutbattery
+cask firefox
+cask firefoxdeveloperedition
+cask handbrake
 cask kindle
 cask minikube
 cask numi
 cask postman
+cask remembear
 cask spectacle
 cask station
 cask vagrant
@@ -229,7 +237,7 @@ appstore 937984704 Amphetamine (4.1.4)
 appstore 1091189122 Bear (1.6.10)
 appstore 409183694 Keynote (8.3)
 appstore 539883307 LINE (5.14.0)
-appstore 1295203466 Microsoft Remote Desktop (10.2.7)
+appstore 1295203466 Microsoft Remote Desktop (10.2.9)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 1116599239 NordVPN IKE (4.11.7)
 appstore 409203825 Numbers (5.3)
