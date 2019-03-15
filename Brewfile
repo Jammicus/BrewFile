@@ -225,7 +225,6 @@ cask kindle
 cask minikube
 cask numi
 cask postman
-cask remembear
 cask spectacle
 cask station
 cask vagrant
@@ -233,7 +232,7 @@ cask visual-studio-code
 cask wineskin-winery
 
 # App Store applications
-appstore 937984704 Amphetamine (4.1.4)
+appstore 937984704 Amphetamine (4.1.5)
 appstore 1091189122 Bear (1.6.10)
 appstore 409183694 Keynote (8.3)
 appstore 539883307 LINE (5.14.0)
