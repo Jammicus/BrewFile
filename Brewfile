@@ -7,7 +7,6 @@ brew ansible-lint
 brew ant
 brew aom
 brew archey
-brew asciinema
 brew augeas
 brew autoconf
 brew automake
@@ -205,9 +204,6 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-brew asciinema2gif
-brew chromedriver
-brew node@4
 brew sshpass
 
 # Other Cask applications
