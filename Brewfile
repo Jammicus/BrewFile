@@ -141,6 +141,7 @@ brew s-lang
 brew sbt
 brew scala
 brew sdl2
+brew shfmt
 brew sl
 brew snappy
 brew socat
@@ -194,12 +195,11 @@ cask licecap
 cask minishift
 cask p4v
 cask powershell
-cask slack
-cask spotify
-cask transmission
-cask virtualbox
-cask vlc
-cask xquartz
+cask spectacle
+cask station
+cask vagrant
+cask visual-studio-code
+cask wineskin-winery
 
 tap rcmdnk/file
 brew brew-file
@@ -219,17 +219,17 @@ cask calibre
 cask chefdk
 cask coconutbattery
 cask firefox
-cask firefoxdeveloperedition
 cask handbrake
 cask kindle
 cask minikube
 cask numi
 cask postman
-cask spectacle
-cask station
-cask vagrant
-cask visual-studio-code
-cask wineskin-winery
+cask slack
+cask spotify
+cask transmission
+cask virtualbox
+cask vlc
+cask xquartz
 
 # App Store applications
 appstore 937984704 Amphetamine (4.1.5)
