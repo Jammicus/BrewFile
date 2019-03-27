@@ -72,6 +72,7 @@ brew leptonica
 brew libass
 brew libbluray
 brew libde265
+brew libevent
 brew libffi
 brew libgpg-error
 brew libheif
@@ -140,6 +141,7 @@ brew s-lang
 brew sbt
 brew scala
 brew sdl2
+brew shared-mime-info
 brew shfmt
 brew sl
 brew snappy
@@ -160,6 +162,7 @@ brew tomcat
 brew tomcat@7
 brew trash
 brew tree
+brew unbound
 brew webkit2png
 brew webp
 brew wget
