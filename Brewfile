@@ -7,7 +7,6 @@ brew ansible-lint
 brew ant
 brew aom
 brew archey
-brew asciinema
 brew augeas
 brew autoconf
 brew automake
@@ -71,6 +70,7 @@ brew leptonica
 brew libass
 brew libbluray
 brew libde265
+brew libevent
 brew libffi
 brew libgpg-error
 brew libheif
@@ -139,6 +139,8 @@ brew s-lang
 brew sbt
 brew scala
 brew sdl2
+brew shared-mime-info
+brew shfmt
 brew sl
 brew snappy
 brew socat
@@ -158,6 +160,7 @@ brew tomcat
 brew tomcat@7
 brew trash
 brew tree
+brew unbound
 brew webkit2png
 brew webp
 brew wget
@@ -197,14 +200,15 @@ cask transmission
 cask virtualbox
 cask vlc
 cask xquartz
+cask station
+cask vagrant
+cask visual-studio-code
+cask wineskin-winery
 
 tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-brew asciinema2gif
-brew chromedriver
-brew node@4
 brew sshpass
 
 # Other Cask applications
@@ -216,7 +220,6 @@ cask calibre
 cask chefdk
 cask coconutbattery
 cask firefox
-cask firefoxdeveloperedition
 cask handbrake
 cask kindle
 cask minikube
@@ -227,15 +230,19 @@ cask spotify
 cask vagrant
 cask visual-studio-code
 cask wineskin-winery
+cask transmission
+cask virtualbox
+cask vlc
+cask xquartz
 
 # App Store applications
-appstore 937984704 Amphetamine (4.1.5)
-appstore 1091189122 Bear (1.6.10)
-appstore 409183694 Keynote (8.3)
-appstore 539883307 LINE (5.14.0)
-appstore 1295203466 Microsoft Remote Desktop (10.2.9)
-appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 1116599239 NordVPN IKE (4.11.7)
-appstore 409203825 Numbers (5.3)
-appstore 409201541 Pages (7.3)
-appstore 497799835 Xcode (10.1)
+appstore 497799835 com.apple.dt.Xcode (10.2)
+appstore 409183694 com.apple.iWork.Keynote (9.0.1)
+appstore 409203825 com.apple.iWork.Numbers (6.0)
+appstore 409201541 com.apple.iWork.Pages (8.0)
+appstore 937984704 com.if.Amphetamine (4.1.6)
+appstore 715768417 com.microsoft.rdc.mac (8.0.30030)
+appstore 1295203466 com.microsoft.rdc.macos (10.2.11)
+appstore 1116599239 com.nordvpn.osx-apple (4.11.7)
+appstore 539883307 jp.naver.line.mac (5.15.0)
+appstore 1091189122 net.shinyfrog.bear (1.6.10)
