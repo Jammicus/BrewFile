@@ -196,10 +196,6 @@ cask minishift
 cask p4v
 cask powershell
 cask spectacle
-cask transmission
-cask virtualbox
-cask vlc
-cask xquartz
 cask station
 cask vagrant
 cask visual-studio-code
@@ -227,22 +223,19 @@ cask numi
 cask postman
 cask slack
 cask spotify
-cask vagrant
-cask visual-studio-code
-cask wineskin-winery
 cask transmission
 cask virtualbox
 cask vlc
 cask xquartz
 
 # App Store applications
-appstore 497799835 com.apple.dt.Xcode (10.2)
-appstore 409183694 com.apple.iWork.Keynote (9.0.1)
-appstore 409203825 com.apple.iWork.Numbers (6.0)
-appstore 409201541 com.apple.iWork.Pages (8.0)
-appstore 937984704 com.if.Amphetamine (4.1.6)
-appstore 715768417 com.microsoft.rdc.mac (8.0.30030)
-appstore 1295203466 com.microsoft.rdc.macos (10.2.11)
-appstore 1116599239 com.nordvpn.osx-apple (4.11.7)
-appstore 539883307 jp.naver.line.mac (5.15.0)
-appstore 1091189122 net.shinyfrog.bear (1.6.10)
+appstore 937984704 Amphetamine (4.1.6)
+appstore 1091189122 Bear (1.6.10)
+appstore 409183694 Keynote (9.0.1)
+appstore 539883307 LINE (5.15.0)
+appstore 1295203466 Microsoft Remote Desktop (10.2.11)
+appstore 715768417 Microsoft Remote Desktop (8.0.30030)
+appstore 1116599239 NordVPN IKE (4.11.7)
+appstore 409203825 Numbers (6.0)
+appstore 409201541 Pages (8.0)
+appstore 497799835 Xcode (10.2)
