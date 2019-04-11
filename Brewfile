@@ -18,7 +18,6 @@ brew cask
 brew certbot
 brew cmake
 brew coreutils
-brew cowsay
 brew cscope
 brew csvkit
 brew dialog
@@ -30,7 +29,6 @@ brew emacs
 brew ffmpeg
 brew flac
 brew fontconfig
-brew fortune
 brew freetype
 brew frei0r
 brew fribidi
@@ -194,8 +192,7 @@ cask licecap
 cask minishift
 cask p4v
 cask powershell
-cask slack
-cask spotify
+cask spectacle
 cask transmission
 cask virtualbox
 cask vlc
@@ -225,8 +222,8 @@ cask kindle
 cask minikube
 cask numi
 cask postman
-cask spectacle
-cask station
+cask slack
+cask spotify
 cask vagrant
 cask visual-studio-code
 cask wineskin-winery
