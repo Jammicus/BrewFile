@@ -232,7 +232,7 @@ cask xquartz
 
 # App Store applications
 appstore 937984704 Amphetamine (4.1.6)
-appstore 1091189122 Bear (1.6.10)
+appstore 1091189122 Bear (1.6.13)
 appstore 409183694 Keynote (9.0.1)
 appstore 539883307 LINE (5.15.0)
 appstore 1295203466 Microsoft Remote Desktop (10.2.11)
