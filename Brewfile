@@ -203,6 +203,9 @@ cask vagrant
 cask visual-studio-code
 cask wineskin-winery
 
+tap adoptopenjdk/openjdk
+cask adoptopenjdk11
+
 tap rcmdnk/file
 brew brew-file
 
