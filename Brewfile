@@ -234,13 +234,13 @@ cask vlc
 cask xquartz
 
 # App Store applications
-appstore 497799835 com.apple.dt.Xcode (10.2)
+appstore 497799835 com.apple.dt.Xcode (10.2.1)
 appstore 409183694 com.apple.iWork.Keynote (9.0.1)
 appstore 409203825 com.apple.iWork.Numbers (6.0)
 appstore 409201541 com.apple.iWork.Pages (8.0)
 appstore 937984704 com.if.Amphetamine (4.1.6)
 appstore 715768417 com.microsoft.rdc.mac (8.0.30030)
-appstore 1295203466 com.microsoft.rdc.macos (10.2.11)
-appstore 1116599239 com.nordvpn.osx-apple (4.11.7)
-appstore 539883307 jp.naver.line.mac (5.15.0)
+appstore 1295203466 com.microsoft.rdc.macos (10.2.12)
+appstore 1116599239 com.nordvpn.osx-apple (4.12.7)
+appstore 539883307 jp.naver.line.mac (5.16.0)
 appstore 1091189122 net.shinyfrog.bear (1.6.13)
