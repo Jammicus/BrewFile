@@ -17,7 +17,6 @@ brew cask
 brew certbot
 brew cmake
 brew coreutils
-brew cowsay
 brew cscope
 brew csvkit
 brew dialog
