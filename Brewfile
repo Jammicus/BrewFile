@@ -234,7 +234,7 @@ cask xquartz
 
 # App Store applications
 appstore 497799835 com.apple.dt.Xcode (10.2.1)
-appstore 409183694 com.apple.iWork.Keynote (9.0.1)
+appstore 409183694 com.apple.iWork.Keynote (9.0.2)
 appstore 409203825 com.apple.iWork.Numbers (6.0)
 appstore 409201541 com.apple.iWork.Pages (8.0)
 appstore 937984704 com.if.Amphetamine (4.1.6)
