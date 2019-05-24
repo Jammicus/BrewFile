@@ -162,6 +162,7 @@ brew tomcat@7
 brew trash
 brew tree
 brew unbound
+brew vault
 brew webkit2png
 brew webp
 brew wget
