@@ -36,6 +36,7 @@ brew fribidi
 brew gcc
 brew gdbm
 brew gettext
+brew ghostscript
 brew giflib
 brew gifsicle
 brew git
@@ -195,14 +196,15 @@ cask docker
 cask google-chrome
 cask intel-haxm
 cask licecap
-cask minishift
-cask p4v
-cask powershell
-cask spectacle
-cask station
-cask vagrant
-cask visual-studio-code
-cask wineskin-winery
+cask minikube
+cask numi
+cask postman
+cask slack
+cask spotify
+cask transmission
+cask virtualbox
+cask vlc
+cask xquartz
 
 tap adoptopenjdk/openjdk
 cask adoptopenjdk11
@@ -224,15 +226,15 @@ cask coconutbattery
 cask firefox
 cask handbrake
 cask kindle
-cask minikube
-cask numi
-cask postman
-cask slack
-cask spotify
-cask transmission
-cask virtualbox
-cask vlc
-cask xquartz
+cask mactex-no-gui
+cask minishift
+cask p4v
+cask powershell
+cask spectacle
+cask station
+cask vagrant
+cask visual-studio-code
+cask wineskin-winery
 
 # App Store applications
 appstore 937984704 Amphetamine (4.1.6)
