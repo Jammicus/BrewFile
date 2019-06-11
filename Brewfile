@@ -237,7 +237,7 @@ cask visual-studio-code
 cask wineskin-winery
 
 # App Store applications
-appstore 937984704 Amphetamine (4.1.6)
+appstore 937984704 Amphetamine (4.2)
 appstore 1091189122 Bear (1.6.15)
 appstore 409183694 Keynote (9.0.2)
 appstore 539883307 LINE (5.16.2)
