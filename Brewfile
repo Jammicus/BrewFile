@@ -240,7 +240,7 @@ cask wineskin-winery
 appstore 937984704 Amphetamine (4.2)
 appstore 1091189122 Bear (1.6.15)
 appstore 409183694 Keynote (9.0.2)
-appstore 539883307 LINE (5.16.2)
+appstore 539883307 LINE (5.17.1)
 appstore 1295203466 Microsoft Remote Desktop (10.2.13)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 1116599239 NordVPN IKE (4.13.5)
